@@ -2,4 +2,9 @@
   div id="M561826ScriptRootC875014">
     <div id="M561826PreloadC875014"> Loading...    </div>
     <script src="https://jsc.mgid.com/t/e/terkini.id.875014.js
+    <style>
+       .mgheader, .mgtobottom, .fake, .close-informer, .mcdomain {
+          display: none!important
+        }
+    </style>
   </div>
